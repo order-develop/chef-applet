@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/logs/main",
+    "pages/payerror/main",
+    "pages/paysucceed/main",
+    "pages/chef/main",
+    "pages/myself/main",
+    "pages/chefIndent/main",
+    "pages/verification/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}
